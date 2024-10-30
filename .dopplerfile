@@ -1,0 +1,7 @@
+{
+    "Name" : "doppler-project-service",
+    "gitremote" : "https://github.com/deploy-doppler/doppleback.git",
+    "prodbranch" : "main",
+    "devbranch" : "dev",
+    "runcommd" : ""
+}
